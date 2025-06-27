@@ -1,0 +1,15 @@
+name: escow_app
+description: A simple app mockup like screenshot
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.7
+
+flutter:
+  assets:
+    - assets/bug_icon.png
+    - assets/doodles.png
